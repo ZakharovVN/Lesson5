@@ -1,3 +1,9 @@
+/**
+ * java1. HomeWorkFive
+ *
+ * @author ZakharovVladimir
+ * @version 24.02.2022
+ */
 class Worker {
     private String name;
     private String post;

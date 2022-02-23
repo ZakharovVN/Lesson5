@@ -1,4 +1,9 @@
-
+/**
+ * java1. HomeWorkFive
+ *
+ * @author ZakharovVladimir
+ * @version 24.02.2022
+ */
 public class Main {
     static final int WORKER_ARRAY_SIZE = 5;
 
